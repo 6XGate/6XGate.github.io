@@ -1,0 +1,52 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: Matthew Holder
+Label: Packages by Matthew Holder
+Suite: buster
+Codename: buster
+Version: 10.0
+Architectures: armhf
+Description: Packages created and released by Matthew Holder
+Date: Thu, 28 Jan 2021 04:40:20 +0000
+MD5Sum:
+ 6a058e9c13ad08f47e194ce3ec60d2af            67458 Contents-armhf
+ 11159521b21f6f717b64ad6d76879716             5776 Contents-armhf.gz
+ de9d61075663102aee6eafc19abcd951              989 main/binary-armhf/Packages
+ fe40783868c2690aa88544b826e4bbb6              679 main/binary-armhf/Packages.gz
+ 65e605c8924c21dadd5e3b0c90525b95              123 main/binary-armhf/Release
+SHA1:
+ a70a2c5f7fe63cb38fcb631cca98cc91173ebe33            67458 Contents-armhf
+ 79dc0240b71437e8d992c7cb39653d275d82398d             5776 Contents-armhf.gz
+ beb5036ea39177265acea88d92d9a4079346d4d1              989 main/binary-armhf/Packages
+ 1ae42c4e1eb82c9df8a46fa78d231ef5a8e4b1a9              679 main/binary-armhf/Packages.gz
+ ab09d2c478b7ad97e0fac5bfb96a4be4ffbd9280              123 main/binary-armhf/Release
+SHA256:
+ 3a48405532affc97c3d8536cc6fcc86bffe959ee8d7607b5c8dd95320a8afbcc            67458 Contents-armhf
+ 369e218dbed6741e6ee885d4309ef17bfe9e3b1185b71445624ab1699073d8f6             5776 Contents-armhf.gz
+ a4175ee36c36bfaa73c7c53d07b93ceb56dfc58f64fa5fcd1630a1721bee27dc              989 main/binary-armhf/Packages
+ 3fd4d4b43faba8866dc08762278ec6379032be434015ed2311b7fe30ee78c19d              679 main/binary-armhf/Packages.gz
+ fd9b2a991c1fe2cfdb5fd98044d50fba81e9308e84b8cfc393a333c094616fd2              123 main/binary-armhf/Release
+SHA512:
+ 4e924c851b36ccbb90c0fe82f42987905276b969bc7ce96cc331abc4dd107c811e3270ee4abd9184371e8bc7064a49ceee550f0592a42d564eefc9bee0461a0b            67458 Contents-armhf
+ f44e1cd7ce00c225b1e6a8de3de6ba5535f86c5386e0a0f3135172d49c339b596db4fc88fe444b7ad54594363e34d852b9e8b33796408afff52ef8c673773638             5776 Contents-armhf.gz
+ 88b89534e706aadfdf520c5634bed14f0bf05b264d0a21ae99ebba6e1ae3e8938753f3f92ec56e92106dfda81248ce5094ba2344b7ac1fa7a85f88b41e5f394c              989 main/binary-armhf/Packages
+ 49dc28c51183b89bf5788ed100e82192012ba82719b1e625d797b2c474b76e7ab1ed6ea3fcdbaf23c98cf2e02e106655d385ceaa170db99d5adde6d6ac813475              679 main/binary-armhf/Packages.gz
+ e915912f254e7ccaf99782f2a297e00d9ff364dae426116d2aa367c022442802ba6391bab83d040f91237169a684deb798cc1b74bfa04c4c9a3b5d83efd1649c              123 main/binary-armhf/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQJJBAEBCgAzFiEEC+XemT68DWjS/2D+3moj1TDxXu4FAmASQDQVHHNpeHhnYXRl
+QGhvdG1haWwuY29tAAoJEN5qI9Uw8V7uDeQP/10EYwn5bfTg0MywhxKq/XcI21Ew
+Bg1vVCMEDNM+9ZmvdQWZll6olAO07gXnMHHS1mby9806Pbg7uvpm1BGMGn96nfge
+2Qo2ljR988H9fnMW1WNg0r2SEZyjPOn8MmSeyUmU9LGEEa8hvRLurRhcK+q6hxjh
+DviFqGyy46OXHtZAJi6pRGBJMwHXG5/T4GJD5P+uL6TgBfszR5Rlt/sePl56jC98
+ipnHtiK8/pDK+RP6+nCAAeCQ/GdYFvjPoV57GexhYi/KfqMb14cT42ZBjr0dUw1e
+NhSz3LubnvWMHIKwnXMndtcqsH/TEivI2KnfAEN4jOJAKvWeUHVbbwlal9knSC8l
+uISu63GbcpLRaRc7/KvtgtMirtXwWjBJCsXp4QDnbF11ry9l40pNFV/F/QOMzQJ7
+yoddlR7diGGKJ0A2VhhS5SIQ8vhltE+cl7gxF/YswBRcfitgPDxBXGHW4wWIosqo
+znDYgPI4PkWvqi0PVQ1r5yqPO3ikExo2VlggJOyuzuNxElaOWgJnQghz4CFNbWVY
+VVTxEB3tAmOAMD4hsBY0GLMSMN/3stVnBH87R+ABjBsxSaShDvfNyAi6HZi+iyMA
+ztq6yj4+7hpJkfZx4+/1uKsHiYI9I3UBm9Bz2czLFkd9gRBo+Cb/5izJj0lhxied
+YSmPYcFNAQfmz+WH
+=KE4Z
+-----END PGP SIGNATURE-----

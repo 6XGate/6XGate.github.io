@@ -1,0 +1,20 @@
+Package: bridgecmdr
+Architecture: armhf
+Version: 2.0.0-beta
+Priority: optional
+Section: misc
+Maintainer: Matthew Holder <sixxgate@hotmail.com>
+Installed-Size: 165125
+Depends: libgtk-3-0, libnotify4, libnss3, libxtst6, xdg-utils, libatspi2.0-0, libxss1, kde-cli-tools | kde-runtime | trash-cli | libglib2.0-bin | gvfs-bin
+Recommends: pulseaudio | libasound2
+Suggests: gir1.2-gnomekeyring-1.0, libgnome-keyring0, lsb-release
+Filename: pool/buster/armhf/main/bridgecmdr_2.0.0-beta_armhf.deb
+Size: 51583868
+MD5sum: bf8e9d96c485097e4aa795bab0e6397e
+SHA1: 959855954af87f537b625455c89cda1ff6a561cd
+SHA256: 538e875a48a9c19a2ca70ff39010f51bef9d00c613683942ffc4b9578d2527ef
+SHA512: ab7313006e90389ee2e4b8812e23a477a2deeff8d9ec0f7b4a55b96a5b5f60598569207e35d46e46daabc965c5a2a88fb899ed4c6dfa45cc3c782904d2443ce1
+Homepage: https://github.com/6XGate/bridgecmdr#readme
+Description: Professional switch and monitor controller for retro gaming
+ Controls monitors and A/V equipment in a retrogaming setup
+
