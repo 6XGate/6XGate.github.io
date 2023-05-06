@@ -1,0 +1,9 @@
+version: 2.0.0-beta.4
+files:
+  - url: https://github.com/6XGate/6XGate.github.io/raw/main/bridgecmdr/bridgecmdr-2.0.0-beta.4-armv7l.AppImage
+    sha512: X9MWlBTwilvlb2xZmckejbhNXWQNLt9beMqWXiz6Zr8uo6Di2y4gGUyqS2V8/MXO5SNqo0T8OgZa1hAqjqc4QA==
+    size: 589458141
+    blockMapSize: 608725
+path: bridgecmdr.AppImage
+sha512: X9MWlBTwilvlb2xZmckejbhNXWQNLt9beMqWXiz6Zr8uo6Di2y4gGUyqS2V8/MXO5SNqo0T8OgZa1hAqjqc4QA==
+releaseDate: '2023-05-05T00:46:32.269Z'
